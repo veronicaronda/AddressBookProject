@@ -1,0 +1,41 @@
+:root{
+    font-size: 10px;
+}
+body{
+    font-family: "Bree Serif", serif;
+}
+h1{
+    font-weight: bold;
+    font-size: 4rem;
+}
+input[placeholder]{
+    font-size: 1.5rem;
+}
+.btn{
+    padding: 10px 15px;
+    font-weight: bold;
+    font-size: 1.8rem;
+    width: 230px;
+}
+i{
+    color: #C70039;
+}
+#showContactBtn{
+    background-color: #32CD32;
+    color: white;
+    border: transparent;
+}
+#rmvContactBtn{
+    background-color: #C70039;
+    border: transparent;
+}
+#findContactBtn{
+    background-color:  #FFC300;
+    border: transparent;
+}
+
+.card{
+    font-size: 2rem;
+    background-color: #32CD32;
+    color: black;
+}
